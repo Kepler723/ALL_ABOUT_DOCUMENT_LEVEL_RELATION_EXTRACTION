@@ -1,1 +1,1 @@
-# ALL_ABOUT_DOCUMENT_LEVEL_RELATION_EXTRACTION
+# ALL about document-level relation extraction
